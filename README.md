@@ -1,5 +1,5 @@
 # Philosiphy 
+A stupdly simple single-file python program that pulls a random philsosphical quote and figlets it onto your terminal.
 
-A simple (>20 lines) Python program that prints a philosophical quote in large ASCII text.  
-
+Made w/ Beautiful Soup
 
